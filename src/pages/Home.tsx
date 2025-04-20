@@ -67,7 +67,7 @@ const Home = () => {
             improve efficiency, and deliver exceptional user experiences.
           </p>
           <Link to="/contact">
-            <Button variant="outline" size="lg" className="border-white text-white hover:bg-white hover:text-brand-blue opacity-0 animate-fade-in animate-delay-600">
+            <Button variant="outline" size="lg" className="border-white text-white hover:bg-white hover:text-brand-blue">
               Get Started Today
             </Button>
           </Link>
@@ -137,3 +137,4 @@ const Home = () => {
 };
 
 export default Home;
+
